@@ -1,0 +1,14 @@
+{
+  "name": "biblioteca-api",
+  "version": "1.0.0",
+  "description": "API de gerenciamento de uma biblioteca com funcionalidades de CRUD",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3",
+    "cors": "^2.8.5"
+  }
+}
